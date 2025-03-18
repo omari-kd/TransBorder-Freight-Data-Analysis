@@ -41,12 +41,6 @@ b. Confirmatory Data Analysis.
 
 Recommendations
 
-Deployment
-
-a. Implement the model in a real-world environment.
-
-b. Monitor its performance and make improvements if needed.
-
 ### 1. Business Understanding
 
 The objectives were defined below, followed by the formulation of analytic questions to guide the modelling process.
