@@ -363,3 +363,7 @@ https://medium.com/@omarieben7/refining-raw-data-how-data-quality-transformed-my
 https://medium.com/@omarieben7/the-art-of-handling-missing-values-a-nuanced-approach-to-freight-data-analysis-95418fc49e5a
 
 https://medium.com/@omarieben7/the-analysts-toolkit-how-r-and-power-bi-transformed-my-freight-data-into-actionable-insights-1bb69953bc6a
+
+
+# Contribution 
+Contributions are welcome!
